@@ -1,0 +1,19 @@
+name: deep_demande
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - rich
+  - numpy
+  - jupyter
+  - matplotlib
+  - notebook
+  - plotly
+  - scikit-learn
+  - pytorch-cuda=11.7
+  - torchaudio
+  - torchvision
+  - pytorch
+  - time
+  - tensorboard
+  - xgboost
